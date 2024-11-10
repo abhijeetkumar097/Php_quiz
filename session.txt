@@ -1,0 +1,6 @@
+it is used to manage information across different webpages. In php sessions allow you to store information in variables to be used across mutliple webpages .
+unlike cookies session data is stored on the server reducing security risks.
+
+this funciton must be called before any html output.
+
+this is specially useful when the data source contiains unknown data 
